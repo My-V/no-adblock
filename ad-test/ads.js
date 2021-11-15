@@ -1,0 +1,1 @@
+var Ads = true;
