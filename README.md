@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.m-y-v.com/no-adblock">
-    <img src="https://github.m-y-v.com/no-adblock/img/logos/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.m-y-v.com/no-adblock/img/logos/logo.png" alt="Logo" width="auto" height="80">
   </a>
 
   <h3 align="center">THE BEST ANTI-ADBLOCK SCRIPT</h3>
