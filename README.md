@@ -6,7 +6,7 @@
   <h3 align="center">THE BEST ANTI-ADBLOCK SCRIPT</h3>
 
   <p align="center">
-    With No Adblock you can block Adblock users efficiently and easily!
+    Why not earn more money through advertising? With No Adblock you can block Adblock users efficiently and easily. It blocks any ad blocker in any browser and even works for mobile devices.
     <br />
     <a href="https://github.m-y-v.com/no-adblock/"><strong>View Demo »</strong></a>
     <br />
